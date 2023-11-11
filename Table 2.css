@@ -10,11 +10,3 @@
     background-color: rgb(43, 43, 154);
     color: white;
 }
-
-.container table tbody tr .good{
-    background-color: forestgreen;
-    color: white;
-    padding: 8px;
-    padding-right: -5px;
-
-} 
