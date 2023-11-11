@@ -1,2 +1,2 @@
 # skyline-tech
-this table contains the student grade score and personal informations.
+this table contains the student Approval and personal informations.
