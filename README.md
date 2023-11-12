@@ -1,2 +1,2 @@
 # skyline-tech
-this table contains the student cours of sudy and personal informations.
+this table contains the student course of sudy and personal informations.
